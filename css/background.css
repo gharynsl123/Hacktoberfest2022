@@ -1,0 +1,10 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: black;
+}
+
+* ::after{
+    background-color: whitesmoke;
+    padding: auto;
+}
