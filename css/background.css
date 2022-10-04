@@ -4,7 +4,7 @@
     background-color: black;
 }
 
-* ::after{
+* :hover{
     background-color: whitesmoke;
     padding: auto;
 }
